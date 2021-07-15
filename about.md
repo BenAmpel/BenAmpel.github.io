@@ -3,6 +3,11 @@ layout: page
 title: About Ben
 description: Benjamin M. Ampel is a Ph.D. Student in Management Information Systems
 ---
+
+<p align="center">
+  <img src="https://github.com/BenAmpel/BenAmpel.github.io/blob/master/pics/CasualBampel.jpg?raw=true" alt="CasualBampel"/>
+</p>
+
 [Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bampel Academic CV.pdf)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=XDdwaZUAAAAJ&hl=en)<br/>
 [Github](https://github.com/BenAmpel)<br/>
@@ -26,12 +31,6 @@ Ben’s research focuses on data mining techniques for creating proactive Cyber 
             <div id="hide_email">
             Email: bampel@email.arizona.edu
             </div>
-        </div>
-
-        <div class="span2">
-        <a href="../pics/CasualBampel.jpg">
-            <img src= "https://github.com/BenAmpel/BenAmpel.github.io/blob/master/pics/CasualBampel.jpg?raw=true"
-                  title="CasualBampel" alt="CasualBampel"/></a>
         </div>
     </div>
 </div>
