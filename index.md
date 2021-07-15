@@ -15,7 +15,7 @@ keywords: Ampel, Deep Learning, Data Mining, Cyber Threat Intelligence
 </div>
 
 ### Introduction
-Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory. On this webpage you can find his bio, publications, talks, taught courses, and more.
+Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory. On this webpage you can find his bio, publications, talks, taught courses, and more. Please feel free to browse his CV and this site to get to know more about his research, teaching, and other interests. He is also available for contact at bampel@email.arizona.edu.
 
 <div class="container">
 <h4><a name="contact"></a></h4>
