@@ -19,6 +19,10 @@ Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the
 
 ![Alt text](/pics/Capture.PNG?raw=true "Title")
 
+<p align="center">
+  <img src="https://github.com/BenAmpel/BenAmpel.github.io/blob/master/pics/Capture.PNG?raw=true" alt="custom image"/>
+</p>
+
 <div class="container">
 <h4><a name="contact"></a></h4>
   <div class="row-fluid">
