@@ -7,6 +7,7 @@ description: Benjamin M. Ampels Publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#ResearchInterests">Research Interests</a></li>
             <li><a href="#JournalPapers">Journal Papers</a></li>
             <li><a href="#Conference">Refereed Conference Proceedings</a></li>
         </ul>
