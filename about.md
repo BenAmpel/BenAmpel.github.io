@@ -30,7 +30,7 @@ Ben’s research focuses on data mining techniques for creating proactive Cyber 
 
         <div class="span2">
         <a href="../pics/CasualBampel.jpg">
-            <img src="../pics/CasualBampel.jpg"
+            <img src= "https://github.com/BenAmpel/BenAmpel.github.io/blob/master/pics/CasualBampel.jpg?raw=true"
                   title="CasualBampel" alt="CasualBampel"/></a>
         </div>
     </div>
