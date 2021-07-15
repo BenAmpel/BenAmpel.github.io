@@ -19,5 +19,5 @@ Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the
 <div class="span2">
         <a href="../pics/Capture.PNG">
             <img src="../pics/Capture.PNG"
-                  title="Catalinas" alt="CasuaCatalinaslBampel"/></a>
+                  title="Catalinas" alt="Catalinas"/></a>
 </div>
