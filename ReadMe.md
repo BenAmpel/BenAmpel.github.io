@@ -1,7 +1,6 @@
-## Karl Broman&rsquo;s website
+## Benjamin M. Ampel's Personal Webpage
 
-See [kbroman.org](https://kbroman.org).
-
+Thank you to [Karl Broman](kbroman.org) for the informative tutorial on making a personal webpage [link](https://kbroman.org/simple_site/pages/user_site.html)
 ---
 
 This web site is licensed under
