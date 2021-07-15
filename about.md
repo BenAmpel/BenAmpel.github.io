@@ -7,14 +7,9 @@ description: Benjamin Ampel is a Ph.D. Student in Management Information Systems
 Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under [Dr. Hsinchun Chen](https://eller.arizona.edu/people/hsinchun-chen) in the [Artificial Intelligence Laboratory](https://eller.arizona.edu/departments-research/centers-labs/artificial-intelligence). Ben received a B.S. in MIS from UArizona in 2017, and an M.S. in MIS from UArizona in 2019.
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bampel Academic Cv.pdf)<br/>
-[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
-[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
-<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
-[github](https://github.com/kbroman)<br/>
-[blog](https://kbroman.org/blog/) <br/>
-he/him
+[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bampel Academic CV.pdf)<br/>
+[Google Scholar](https://scholar.google.com/citations?user=XDdwaZUAAAAJ&hl=en)<br/>
+[Github](https://github.com/BenAmpel)<br/>
 
 ---
 
