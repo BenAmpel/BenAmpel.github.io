@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Benjamin Ampel
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory.
 keywords: Ampel, Deep Learning, Data Mining, Cyber Threat Intelligence
 ---
 
