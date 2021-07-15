@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 description: Benjamin Ampel is a Ph.D. Student in Management Information Systems
 ---
 
