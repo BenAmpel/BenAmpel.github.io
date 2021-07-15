@@ -5,6 +5,8 @@ description: Benjamin Ampel is a Ph.D. Student in Management Information Systems
 keywords: Ampel, Deep Learning, Data Mining, Cyber Threat Intelligence
 ---
 
+### Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory. On this webpage you can find his bio, publications, talks, taught courses, and more.
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
