@@ -15,8 +15,6 @@ description: Benjamin M. Ampels Publications
 
 ### Research Interests
 Ben’s research focuses on developing AI-based approaches for automated collection, identification, and mitigation of malicious hacker threats. These hacker threats are collected from hacker forums, exploit DarkNet Markets, and public exploit repositories. The **methods** used for this work fall into three categories; (1) Web Mining, (2) Computational Linguistics, and (3) Deep Learning.
-
-#### Methods:
 1. **Web Mining**: OSINT, Web Crawling
 2. **Computational Linguistics**: Word/Document Embeddings, Named Entity Recognition, Pre-Trained Language Models 
 3. **Deep learning**: Deep Transfer Learning, Attention Mechanisms, Knowledge Distillation 
