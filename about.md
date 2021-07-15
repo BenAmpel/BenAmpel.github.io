@@ -30,7 +30,7 @@ Ben’s research focuses on data mining techniques for creating proactive Cyber 
 
         <div class="span2">
         <a href="../pics/CasualBampel.jpg">
-            <img src="../pics/CasualBampel.jpg" max-width: 100%; height: auto;
+            <img src="../pics/CasualBampel.jpg"
                   title="CasualBampel" alt="CasualBampel"/></a>
         </div>
     </div>
