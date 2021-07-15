@@ -8,7 +8,7 @@ keywords: Ampel, Deep Learning, Data Mining, Cyber Threat Intelligence
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/BAmpel Academic CV.pdf">CV</a></li>
+          <li><a href="{{ BASE_PATH }}/Bampel Academic CV.pdf">CV</a></li>
           <li><a href="https://github.com/BenAmpel">Github</a></li>
       </ul>
   </div>
