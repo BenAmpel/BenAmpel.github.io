@@ -10,6 +10,7 @@ description: Benjamin M. Ampels Publications
             <li><a href="#ResearchInterests">Research Interests</a></li>
             <li><a href="#JournalPapers">Journal Papers</a></li>
             <li><a href="#Conference">Refereed Conference Proceedings</a></li>
+            <li><a href="#AdHoc">Refereed Workshop Papers (No Proceedings)</a></li>
         </ul>
     </div>
 </div>
@@ -39,8 +40,6 @@ Ben’s research focuses on developing AI-based approaches for automated collect
 ---
 
 ### <a name="Conference"></a>Refereed Conference Proceedings
-* **B. Ampel**, S. Samtani, S. Ullman, and H. Chen, "Linking Common Vulnerabilities and Exposures to the MITRE ATT&CK Framework: A Self-Distillation Approach," Proceedings of 2021 ACM Conference Knowledge Discovery and Data Mining (KDD' 21), Singapore, August 2021. [PDF ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/pdfs/BAmpel_KDD_CVET.pdf)<br/>
-
 * **B. Ampel**, S. Samtani, H. Zhu, S. Ullman, and H. Chen, "Labeling Hacker Exploits for Proactive Cyber Threat Intelligence: A Deep Transfer Learning Approach," Proceedings of 2020 IEEE International Conference on Intelligence and Security Informatics (ISI), Washington, D.C., November 2020 (Recipient of Best Paper Award). [PDF ![CV as pdf](icons16/pdf-icon.png)](https://par.nsf.gov/servlets/purl/10218326)<br/>
 
 * S. Ullman, S. Samtani, B. Lazarine, H. Zhu, **B. Ampel**, M. Patton, and H. Chen, "Smart Vulnerability Assessment for Scientific Cyberinfrastructure: An Unsupervised Graph Embedding Approach," Proceedings of 2020 IEEE International Conference on Intelligence and Security Informatics (ISI), Washington, D.C., November 2020. [PDF ![CV as pdf](icons16/pdf-icon.png)](https://par.nsf.gov/servlets/purl/10218329)<br/>
@@ -48,3 +47,8 @@ Ben’s research focuses on developing AI-based approaches for automated collect
 * B. Lazarine, S. Samtani, M. Patton, H. Zhu, S. Ullman, **B. Ampel**, and H. Chen, "Identifying Vulnerable GitHub Repositories and Users in Scientific Cyberinfrastructure: An Unsupervised Graph Embedding Approach," Proceedings of 2020 IEEE International Conference on Intelligence and Security Informatics (ISI), Washington, D.C., November 2020. [PDF ![CV as pdf](icons16/pdf-icon.png)](https://par.nsf.gov/servlets/purl/10218331)<br/>
 
 * **B. Ampel**, M. Patton and H. Chen, "Performance Modeling of Hyperledger Sawtooth Blockchain," Proceedings of 2019 IEEE International Conference on Intelligence and Security Informatics (ISI), Shenzhen, China, July 2019. [PDF ![CV as pdf](icons16/pdf-icon.png)](https://par.nsf.gov/servlets/purl/10172683)<br/>
+
+---
+
+### <a name="AdHoc"></a>Refereed Workshop Papers (No Proceedings)
+* **B. Ampel**, S. Samtani, S. Ullman, and H. Chen, "Linking Common Vulnerabilities and Exposures to the MITRE ATT&CK Framework: A Self-Distillation Approach," Proceedings of 2021 ACM Conference Knowledge Discovery and Data Mining (KDD' 21), Singapore, August 2021. [PDF ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/pdfs/BAmpel_KDD_CVET.pdf)<br/>
