@@ -52,3 +52,4 @@ Ben’s research focuses on developing AI-based approaches for automated collect
 
 ### <a name="AdHoc"></a>Refereed Workshop Papers (No Proceedings)
 * **B. Ampel**, S. Samtani, S. Ullman, and H. Chen, "Linking Common Vulnerabilities and Exposures to the MITRE ATT&CK Framework: A Self-Distillation Approach," Proceedings of 2021 ACM Conference Knowledge Discovery and Data Mining (KDD' 21), Singapore, August 2021. [PDF ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/pdfs/BAmpel_KDD_CVET.pdf)
+<br/>
