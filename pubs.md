@@ -40,6 +40,12 @@ Ben’s research focuses on developing AI-based approaches for automated collect
 ---
 
 ### <a name="Conference"></a>Refereed Conference Proceedings
+* T. Vahedi, **B. Ampel**, S. Samtani, and H. Chen, “Identifying and Categorizing Malicious Content on Paste Sites: A Neural Topic Modeling Approach,” Proceedings of 2021 IEEE International Conference on Intelligence and Security Informatics (ISI), San Antonio, Texas, November 2021.
+
+* K. Otto, **B. Ampel**, S. Samtani, H. Zhu, and H. Chen, “Exploring the Evolution of Exploit-Sharing Hackers:  An Unsupervised Graph Embedding Approach,” Proceedings of 2021 IEEE International Conference on Intelligence and Security Informatics (ISI), San Antonio, Texas, November 2021.
+
+* **B. Ampel** and H. Chen, “Distilling Contextual Embeddings into A Static Word Embedding For Improving Hacker Forum Analytics,” Proceedings of 2021 IEEE International Conference on Intelligence and Security Informatics (ISI), San Antonio, Texas, November 2021.
+
 * **B. Ampel**, S. Samtani, H. Zhu, S. Ullman, and H. Chen, "Labeling Hacker Exploits for Proactive Cyber Threat Intelligence: A Deep Transfer Learning Approach," Proceedings of 2020 IEEE International Conference on Intelligence and Security Informatics (ISI), Washington, D.C., November 2020 (Recipient of Best Paper Award). [PDF ![CV as pdf](icons16/pdf-icon.png)](https://par.nsf.gov/servlets/purl/10218326)<br/>
 
 * S. Ullman, S. Samtani, B. Lazarine, H. Zhu, **B. Ampel**, M. Patton, and H. Chen, "Smart Vulnerability Assessment for Scientific Cyberinfrastructure: An Unsupervised Graph Embedding Approach," Proceedings of 2020 IEEE International Conference on Intelligence and Security Informatics (ISI), Washington, D.C., November 2020. [PDF ![CV as pdf](icons16/pdf-icon.png)](https://par.nsf.gov/servlets/purl/10218329)<br/>
