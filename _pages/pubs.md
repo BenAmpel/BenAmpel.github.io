@@ -43,7 +43,7 @@ Ben’s research focuses on developing AI-based approaches for automated collect
 ---
 
 ### <a name="Conference"></a>Refereed Conference Proceedings
-* C. Marx, **B. Ampel**, B. Lazarine, “The Influence of AI Agent Recommendations on Escalation of Commitment,” Proceedings on the International Conference on Information Systems (ICIS), Austin, Texas, December 2021. [PDF](https://www.researchgate.net/profile/Sagar-Samtani/publication/355165827_Identifying_and_Categorizing_Malicious_Content_on_Paste_Sites_A_Neural_Topic_Modeling_Approach/links/61622f82e7993f536cb5b318/Identifying-and-Categorizing-Malicious-Content-on-Paste-Sites-A-Neural-Topic-Modeling-Approach.pdf)<br/>
+* C. Marx, **B. Ampel**, B. Lazarine, “The Influence of AI Agent Recommendations on Escalation of Commitment,” Proceedings on the International Conference on Information Systems (ICIS), Austin, Texas, December 2021. [PDF]({{ BASE_PATH }}/pdfs/BAmpel_ICIS2021_Paper_a_Thon.pdf)<br/>
 
 * T. Vahedi, **B. Ampel**, S. Samtani, and H. Chen, “Identifying and Categorizing Malicious Content on Paste Sites: A Neural Topic Modeling Approach,” Proceedings of 2021 IEEE International Conference on Intelligence and Security Informatics (ISI), San Antonio, Texas, November 2021. [PDF](https://www.researchgate.net/profile/Sagar-Samtani/publication/355165827_Identifying_and_Categorizing_Malicious_Content_on_Paste_Sites_A_Neural_Topic_Modeling_Approach/links/61622f82e7993f536cb5b318/Identifying-and-Categorizing-Malicious-Content-on-Paste-Sites-A-Neural-Topic-Modeling-Approach.pdf)<br/>
 
