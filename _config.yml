@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jake Lever
+
+title: Benjamin M. Ampel
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal webpage of Jake Lever, lecturer at Glasgow University.
-twitter_username: jakelever0
-github_username: jakelever
+  Personal webpage of Benjamin M. Ampel, Ph.D. Student in MIS.
+twitter_username: BenAmpel
+github_username: BenAmpel
 minimal_mistakes_skin: default
 search: false
 
@@ -56,43 +57,43 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jake Lever"
+  name   : "Benjamin M. Ampel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A lecturer at the University of Glasgow focussing on biomedical text mining and machine learning"
+  bio    : "Ph.D. Student in the Department of Management Information Systems at the University of Arizona studying Cyber Threat Intelligence"
   links:
     - label: "University Profile"
       icon: "fa fa-fw fa-university"
-      url: "https://www.gla.ac.uk/schools/computing/staff/jakelever/"
+      url: "https://eller.arizona.edu/people/benjamin-ampel"
     - label: "Email"
       icon: "fa fa-fw fa-at"
-      url: "mailto:Jake.Lever@glasgow.ac.uk"
+      url: "mailto:bampel@email.arizona.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jakelever0"
+      url: "https://twitter.com/BenAmpel"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jakelever"
+      url: "https://github.com/BenAmpel"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jakelever/"
+      url: "https://www.linkedin.com/in/BenAmpel/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=5ICLcYAAAAAJ"
+      url: "https://scholar.google.com/citations?user=XDdwaZUAAAAJ&hl=en"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jakelever0"
+      url: "https://twitter.com/BenAmpel"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jakelever"
+      url: "https://github.com/BenAmpel"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jakelever/"
+      url: "https://www.linkedin.com/in/BenAmpel/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=5ICLcYAAAAAJ"
+      url: "https://scholar.google.com/citations?user=XDdwaZUAAAAJ&hl=en"
 
 defaults:
   # _posts
