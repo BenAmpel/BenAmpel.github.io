@@ -7,9 +7,7 @@ author_profile: true
 title: "Home"
 ---
 
-[Curriculum Vitae ![CV as pdf](icons64/pdf-icon.png)]({{ BASE_PATH }}/Bampel Academic CV.pdf)<br/>
-[Google Scholar](https://scholar.google.com/citations?user=XDdwaZUAAAAJ&hl=en)<br/>
-[Github](https://github.com/BenAmpel)<br/>
+[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bampel Academic CV.pdf)<br/>
 
 Benjamin M. Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under [Dr. Hsinchun Chen](https://eller.arizona.edu/people/hsinchun-chen) in the [Artificial Intelligence Laboratory](https://eller.arizona.edu/departments-research/centers-labs/artificial-intelligence). Ben received a B.S. in MIS from UArizona in 2017, and an M.S. in MIS from UArizona in 2019. From 2018 – 2021, Ben served as a National Science Foundation (NSF) Scholarship-for-Service (SFS) Fellow.
 
