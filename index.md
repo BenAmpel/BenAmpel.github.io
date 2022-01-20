@@ -7,11 +7,7 @@ author_profile: true
 title: "Home"
 ---
 
-<p align="center">
-  <img src="https://github.com/BenAmpel/BenAmpel.github.io/blob/master/pics/CasualBampel.jpg?raw=true" alt="CasualBampel"/>
-</p>
-
-[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bampel Academic CV.pdf)<br/>
+[Curriculum Vitae ![CV as pdf](icons64/pdf-icon.png)]({{ BASE_PATH }}/Bampel Academic CV.pdf)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=XDdwaZUAAAAJ&hl=en)<br/>
 [Github](https://github.com/BenAmpel)<br/>
 
