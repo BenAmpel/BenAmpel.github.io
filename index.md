@@ -7,4 +7,33 @@ author_profile: true
 title: "Home"
 ---
 
-Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory. On this webpage you can find his bio, publications, talks, taught courses, and more. Please feel free to browse his CV and this site to get to know more about his research, teaching, and other interests. He is also available for contact at bampel@email.arizona.edu.
+<p align="center">
+  <img src="https://github.com/BenAmpel/BenAmpel.github.io/blob/master/pics/CasualBampel.jpg?raw=true" alt="CasualBampel"/>
+</p>
+
+[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bampel Academic CV.pdf)<br/>
+[Google Scholar](https://scholar.google.com/citations?user=XDdwaZUAAAAJ&hl=en)<br/>
+[Github](https://github.com/BenAmpel)<br/>
+
+Benjamin M. Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under [Dr. Hsinchun Chen](https://eller.arizona.edu/people/hsinchun-chen) in the [Artificial Intelligence Laboratory](https://eller.arizona.edu/departments-research/centers-labs/artificial-intelligence). Ben received a B.S. in MIS from UArizona in 2017, and an M.S. in MIS from UArizona in 2019. From 2018 – 2021, Ben served as a National Science Foundation (NSF) Scholarship-for-Service (SFS) Fellow.
+
+Ben’s research focuses on data mining techniques for creating proactive Cyber Threat Intelligence (CTI). Ben has published several conference papers and submitted journal papers on these topics in leading venues such as MIS Quarterly, AI for Cybersecurity topics at ACM KDD, and IEEE ISI. Ben has received recognition for his work, including Best Paper Award at IEEE ISI 2020.
+
+---
+
+<div class="container">
+<h4><a name="contact"></a>Contact</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            Benjamin Ampel<br/>
+            McClelland Hall, 1130 E Helen St<br/>
+            Tucson, AZ 85721<br/>
+            USA<br/><br/>
+
+            <div id="hide_email">
+            Email: bampel@email.arizona.edu
+            </div>
+        </div>
+    </div>
+</div>
