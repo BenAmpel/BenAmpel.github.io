@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Publications
-description: Benjamin M. Ampels Publications
+permalink: /research/
+title: "Research"
 ---
 
 <div class="navbar">
