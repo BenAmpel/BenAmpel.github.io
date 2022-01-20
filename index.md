@@ -1,22 +1,14 @@
 ---
-layout: frontpage
-title: Benjamin Ampel
-description: Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory.
-keywords: Ampel, Deep Learning, Data Mining, Cyber Threat Intelligence
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: single
+author_profile: true
+title: "Home"
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/Bampel Academic CV.pdf">CV</a></li>
-          <li><a href="https://github.com/BenAmpel">Github</a></li>
-      </ul>
-  </div>
-</div>
+Hi, I'm Jake Lever, a lecturer in the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) at the [University of Glasgow](https://www.gla.ac.uk). My research focuses on biomedical text mining and machine learning. I'm particularly interested in extracting biomedical knowledge from text (e.g. research papers) to make it easier for scientists to find the information they need.
 
-### Introduction
-Benjamin Ampel is a Ph.D. Student in Management Information Systems (MIS) at the University of Arizona. Ben works under Dr. Hsinchun Chen in the Artificial Intelligence Laboratory. On this webpage you can find his bio, publications, talks, taught courses, and more. Please feel free to browse his CV and this site to get to know more about his research, teaching, and other interests. He is also available for contact at bampel@email.arizona.edu.
+This personal web page provides links to my [teaching](/teaching/) and [research](/research/) efforts. I've also written a few columns on statistics that are linked in the [writing](/writing/) page. 
 
-<p align="center">
-  <img src="https://github.com/BenAmpel/BenAmpel.github.io/blob/master/pics/Capture.PNG?raw=true" alt="custom image"/>
-</p>
+**I am looking for PhD students to start in October 2022.** If you are interested in that, or another opportunity, please look at the information [here](/workwithme/) and contact me.
